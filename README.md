@@ -1,5 +1,5 @@
 # Dynamische profile card
-![image](https://user-images.githubusercontent.com/61830362/230781108-98b4f909-4eaa-4d79-9434-53a5143c4ca5.png)
+<img src= "https://user-images.githubusercontent.com/61830362/230781108-98b4f909-4eaa-4d79-9434-53a5143c4ca5.png" width=400px>
 
 
 ## Inhoudsopgave
